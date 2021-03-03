@@ -1,4 +1,4 @@
-# Australian English Dictionary
+# Australian English Dictionary for Firefox
 ## _For mad cun#s who don't speak simplified English_
 
 
