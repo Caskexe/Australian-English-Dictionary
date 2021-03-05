@@ -1,11 +1,22 @@
-EN-AU Dictionary for Mozilla Firefox
+# Australian English Dictionary for Firefox
+## _For mad cun#s who don't speak simplified English_
 
-Licensed under GNU General Public License v3.0
-See: https://github.com/Caskexe/EN-AU-wordlist/blob/master/LICENSE
 
-I can be contacted at GitHub - caskexe.github.io
 
-This dictionary was based on the Australian English Dictionary available from OpenOffice (LGPL License) and edited to include city names, locations and other Australian-related slang and profanity. 
+The Australian English Dictionary -- or as I like to call it, AussieDic, is a modern Australian dictionary for Firefox 
 
-Source files and information is available at: https://github.com/Caskexe/Australian-English-Dictionary-Firefox
-Word list is available at: https://github.com/Caskexe/EN-AU-wordlist
+
+## Features
+
+- Profanity
+- Towns, Cities and other Aussie names
+
+## Links
+- [Firefox Add-Ons](https://addons.mozilla.org/en-GB/firefox/addon/australian-english-dictionary/) - Firefox Browser Add-Ons Page
+- [EN-AU Wordlist](https://github.com/Caskexe/EN-AU-wordlist) - The list of words utilised as a repo on GitHub
+
+## Notice
+
+Please don't send complaints or report the Firefox extension for profanity. The purpose of the dictionary is to include all coloUrful language used in Australia. As such there are plenty of bad words, slangs and racist remarks included in the dictionary that may not be appropriate for all. Simply don't type the words and they won't need correcting.
+
+
