@@ -1,8 +1,0 @@
-Version 1.0:
-Initial Release 20 Apr 2020
-
-Version 1.1
-Various fixes and additions. 
-
-Version 1.1.1
-Various fixes and additions.
