@@ -13,7 +13,6 @@ The Australian English Dictionary -- or as I like to call it, AussieDic, is a mo
 
 ## Links
 - [Firefox Add-Ons](https://addons.mozilla.org/en-GB/firefox/addon/australian-english-dictionary/) - Firefox Browser Add-Ons Page
-- [EN-AU Wordlist](https://github.com/Caskexe/EN-AU-wordlist) - The list of words utilised as a repo on GitHub
 
 ## Notice
 
