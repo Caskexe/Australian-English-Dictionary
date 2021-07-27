@@ -9,7 +9,10 @@ The Australian English Dictionary -- or as I like to call it, AussieDic, is a mo
 ## Features
 
 - Profanity
-- Towns, Cities and other Aussie names
+- Racism
+- Celebrity nicknames and politician nicknames
+- Straya stuff
+- Towns, Cities and other usual crap
 
 ## Links
 - [Firefox Add-Ons](https://addons.mozilla.org/en-GB/firefox/addon/australian-english-dictionary/) - Firefox Browser Add-Ons Page
