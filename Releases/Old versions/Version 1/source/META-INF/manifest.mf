@@ -1,0 +1,42 @@
+Manifest-Version: 1.0
+
+Name: changelog.txt
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: JuvHfaHbHgnfdW8ijTgowNuJwZc=
+SHA256-Digest: u46SFCZDjWj0Z6/xOgY60LP+hG5c0ieXnK4f88keOnk=
+
+Name: license.txt
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: MaPUYLs8fZiEUYfHFqMNuBxEthU=
+SHA256-Digest: OXLcl0T2SZ8Pmy2/dmlvKuetivmyPd5m1q+Gyd+zaYY=
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: arkSOPPDanwm3RtdkygRoFgcuEY=
+SHA256-Digest: RXocgBhQfzp9WFJNJYoXd6MXDoSsfFOqrC1tvZE5RZE=
+
+Name: readme.md
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 9zjJzShA5VlzYh27oqkLdbZNn1w=
+SHA256-Digest: mfVZyW60rc+G2KEXuT+mBPjs798pvEN7mof2f21ysrc=
+
+Name: dictionaries/AussieDic.aff
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: atZOcw9WhZjZpgDfOIVEJXR+daY=
+SHA256-Digest: xqojmTOQ/g/IKWbg4NTE/DXekaqse2McAAU2SQ5MBdI=
+
+Name: dictionaries/AussieDic.dic
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: GVwLkiwfpMeQH373jgPykvRO2S0=
+SHA256-Digest: iIs/c2XQcuqi+DlHmMiLlRit4LliwBXU3ji9MZArwvk=
+
+Name: META-INF/cose.manifest
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: pcNvSNiH8AORKRWJYCskz8lu+oU=
+SHA256-Digest: z0nhvEJzN9kQ4tJweG3bkLgRorA7zokDLDBAkRT+jUM=
+
+Name: META-INF/cose.sig
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 82uo25DEU3ze7cwvkvFNVgRDT04=
+SHA256-Digest: oc/4qQmblTwR28XunwgS/8k16MPvL/YHs06SrY+VFU4=
+

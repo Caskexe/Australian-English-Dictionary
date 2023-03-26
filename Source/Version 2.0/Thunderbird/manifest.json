@@ -1,0 +1,13 @@
+{
+  "dictionaries": {
+    "en-AU": "dictionaries/AussieDic.dic"
+  },
+  "version": "2.0",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "AussieDic@dictionaries.addons.mozilla.org"
+    }
+  },
+  "name": "Australian English Dictionary for Thunderbird",
+  "manifest_version": 2
+}
