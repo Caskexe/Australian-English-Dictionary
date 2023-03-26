@@ -1,8 +1,0 @@
-Version 1.0:
-Initial Release 20 Apr 2020
-
-Version 1.1
-Various fixes and additions. 
-
-Version 1.2 26 Jul 2021
-Huge amount of fixes, additions, Covid-related stuff
