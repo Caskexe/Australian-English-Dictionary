@@ -1,0 +1,14 @@
+Version 2.0
+26 Mar 2023
+HUGE overhaul, tidied up and a tonne of new words added!
+
+Version 1.2 
+26 Jul 2021
+Huge amount of fixes, additions, Covid-related stuff
+
+Version 1.1
+Various fixes and additions. 
+
+Version 1.0
+20 Apr 2020
+Initial Release 
