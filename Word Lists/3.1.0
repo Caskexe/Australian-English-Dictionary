@@ -1,0 +1,446 @@
+AUSTRALIAN ENGLISH DICTIONARY (AussieDic) - VERSION 3.1.0
+
+SUMMARY
+-------
+Dictionary entries before: 501,395
+Dictionary entries after:  361,348
+The entry count is lower because duplicates and redundant entries were merged. Every correctly
+spelt word accepted by version 3.0.1 is still accepted (checked with Hunspell against all
+461,191 word forms the old file produced). The only words no longer accepted are the
+misspellings and junk entries listed below.
+
+WHAT WAS FIXED
+--------------
+Common misspellings removed (1568 entries)
+The dictionary was accepting a large number of well-known misspellings as correct, which meant
+Firefox would never underline them. Examples: recieve, definately, seperate, wich, untill, thier,
+wierd, alot, noone, goverment, enviroment, accomodate, occured, begining, existance, tommorow.
+Apostrophe-less contractions (dont, didnt, isnt, wouldnt, thats, theyre, youre and so on) were
+also removed so they get flagged. The apostrophe versions (don't, didn't etc) still work.
+Deliberate slang spellings were kept, including all dropped-g forms (goin, fallin, bleedin,
+flippin), stoopid, bootup, reenable and legitimate Australian/British forms such as despatcher,
+co-ordinate, pre-empt, pease and pastural.
+
+Full list:
+aand, abord, abou, aboves, abreviations, absolut, absolutly, acadamy, accend, acces, accessable,
+accidential, accidently, accomodate, accomplis, accompt, accordian, accross, acessible, acessing,
+achive, achor, acount, acquiesence, actine, activites, acutal, addd, addres, adge, admi,
+administerd, admissable, admitedly, adrea, adres, adress, adressed, adressing, advertize,
+advertized, advertizes, aeriel, aestethic, afganistan, agains, agaisnt, aganist, aggrate, agian,
+agianst, agre, agregation, agressive, ahev, airborn, aircrafts, airpost, airscape, alege, alers,
+aliase, aline, alined, aling, alis, alised, alle, allignment, allo, alloted, allright, alltogether,
+allways, alot, alph, alterating, alteratively, altho, althought, alwasy, alway, amatuer,
+ampitheater, amung, anad, analagous, analise, analist, analizer, androgenous, andthe, anlysis,
+anoher, anormal, anothers, anounce, anoying, anser, apear, aplication, apon, apostrophied,
+apparence, apparenly, appart, appenines, applcations, appliable, applicatio, appling, appplication,
+approvement, aquired, aray, arbitrer, architecure, archiv, archivs, arent, argentia, arges, arised,
+arithmatic, aroud, arrants, arrey, arro, arround, arry, ascript, asfar, aske, asperge, asperges,
+assasins, assotiation, astrix, aswell, asymptoptic, athiests, atleast, atomatic, attatched,
+attatches, attatching, attches, attendent, attribues, autmatically, automatical, automaticlly,
+automaticly, autor, auxiliar, auxillary, availabe, availabel, availeble, availible, aways, aweful,
+awsome, awya, axises, bachler, bacis, backet, bais, balck, banch, banchmark, bankrupcy, bannanas,
+bannet, basicly, beable, beauti, beed, begining, beleave, belive, belligerant, bellweather, belows,
+beng, benge, benifits, benj, benjes, beter, bettery, bettr, betwen, beutiful, bever, beween, beyong,
+binar, bitis, bivouaced, blance, blok, boddy, bogos, bood, boquet, bord, bottome, boun, boundry,
+branche, breack, breal, brocoli, brough, brower, browseable, brusk, buda, builded, builter, bulle,
+bult, bundel, bunds, bunji, buro, burried, bussiness, buton, buttom, cacoon, calaber, calandars,
+calander, calcutator, calid, caling, calle, callendar, calles, callis, camoflage, camoflaged, canbe,
+cancelation, cancell, cancle, cannonical, cantalope, cantalopes, capabilites, caracter, carcas,
+carful, carisma, carmel, cartledge, casette, cashe, casion, catagories, catched, caterpiller,
+caterpillers, ceaser, celle, cemetaries, cemetary, ceration, certian, chache, chambre, chanceled,
+chanche, chane, chanel, chank, characers, chater, chawk, cheet, cheeta, chek, chello, childrens,
+childs, chosing, chouse, chuch, claerly, clame, clases, clasic, clasify, claus, clea, cleary, cleck,
+cler, clossed, closser, cluser, cocurrent, codo, collapsable, collasping, collender, colleted,
+collison, collum, colombus, comand, comander, comands, comatible, combinatio, coment, comissioner,
+commad, commandoes, commisioner, commited, committe, communcate, comon, compaign, compairs,
+comparion, comparition, compatibile, competance, compileable, complession, completly, complite,
+compoents, compresser, comprimise, comression, comunities, condiction, conditon, coner,
+configration, configurate, conly, conquerers, consectutive, considerd, consistant, constructer,
+constructure, constuctor, contect, conter, contine, contiuation, contracter, contro, controle,
+controll, contrrol, contructed, convenant, convertable, copletely, coporation, coppy, corector,
+corelate, corelated, corelating, correllated, correllation, corresondent, corses, cotten, cought,
+coul, couldnt, countrys, countys, couse, couses, couter, crashs, createa, creen, cristal, critial,
+cros, crossite, crowshay, crypted, crystalize, cunted, curser, curtesy, cutted, cylce, dael,
+databse, datas, ddress, deamon, debateable, decison, decypher, defailt, definately, defineable,
+definitly, defore, delection, delerious, delet, deletete, delt, demagog, demagogs, demonstrater,
+dentical, dependance, depoy, derect, derectory, deriver, descide, descided, descirbes, descisions,
+desireable, desitination, desition, despiration, destry, detachs, detur, deug, devault, develope,
+developement, devide, devine, diagonale, didi, didnt, diective, dieing, dieties, diference,
+differen, differents, differnce, dimiss, dingee, diphtongs, diplayed, direcly, dirrectory,
+disclamer, discused, dispair, dispell, distater, distibuted, distingushes, distorsion, distributer,
+ditial, dito, divison, doble, dockson, doctorial, documention, doesnot, doesnt, donn, donnot, dout,
+dowload, dowloading, dows, draged, draughtman, dubly, duplation, durning, durring, dyas, editthe,
+efficacity, efficent, efficience, efford, electorial, elegibility, elelments, eles, ellement,
+elsewehere, emai, embarassed, embaressing, embarras, embarrased, emporer, emultor, enchancement,
+enconding, ende, enflamed, enounters, entir, entires, entite, enver, enviroment, enviroments,
+equiped, equired, equivelant, equpment, esle, especiall, essentiall, estabished, evalution,
+everybodies, everytime, everyting, evey, evry, examing, excentricity, excercise, excercising,
+exclusivly, execeptional, execise, execpt, executible, exensions, exept, exeption, exibits,
+existance, existant, exite, expecially, explaination, explanitory, explicits, explict, explotation,
+expres, expressable, expresso, exprts, extention, extentions, extrac, extracter, extremly, fales,
+falt, farily, farse, fater, fause, feeded, feild, feld, fertil, fictious, fiddley, fied, fiels,
+fiercly, fille, filles, finaly, findout, finge, firey, fixe, flagg, flem, flexibilty, flourescent,
+flourishment, foder, foldes, folowing, folowwing, folse, foppy, forbad, forbit, formated, formating,
+forsee, forseeable, forseen, forst, forthe, forword, foto, fotograf, fouth, fram, frane, freit,
+frist, frivilously, frome, fromm, fromthe, fron, fter, fuction, fuctionality, fullfil, funcions,
+funktion, funtionality, furst, furter, futhermore, galatic, ganster, garant, garanty, gard, gaus,
+generall, generater, generel, geoemtry, gere, gess, geting, gettig, gien, glamourous, gool, gord,
+gorry, gost, goup, goverment, grainery, gramatically, grammer, grammers, graphis, grat, gratefull,
+gratuitious, greate, groth, guage, gude, guerrila, gutteral, hability, hace, hach, hadnt, hald,
+hande, handel, hanel, happend, harrassed, harrassing, hask, hasnt, hass, hava, havent, heirarchy,
+heping, hepler, herat, heros, hese, hexidecimal, higest, highjack, highjacked, highjacker,
+highjacks, hights, hinderance, histroy, holf, holliday, homogeneize, horizonal, horray, hypothenuse,
+idealogies, idealogy, idealy, idenfify, idenitifiers, identifer, identifers, identifiying, idesa,
+idicate, idiosyncracy, illess, immediatly, immidiatly, impicit, implmented, imposible, impot,
+impressario, improof, improvision, improvment, improvments, inaccessable, inacessible, inbetween,
+incase, includ, incomming, incremet, incuding, inculded, indentifiers, independant, indien, indiens,
+inertion, ines, infomation, ingnored, inheritage, iniatives, inidividual, inital, inofficial,
+inpenetrable, inport, inro, instructer, instructers, instuctor, inteference, intenational,
+intensitive, intepreted, interally, interfac, intergate, intermitent, interrup, intersting, inthe,
+intially, intrerrupt, intrusted, inventer, inventers, investiages, invisibile, irreplacable, isnt,
+iten, itesm, jaques, jorney, judical, juge, juli, juni, justs, kindom, konstant, kresh, labled,
+laer, lamba, langage, langauge, langauges, lanuages, larg, larvas, lastest, lauch, laucher,
+lauching, layed, lazer, leary, lene, lengthly, lenth, lern, leutenant, lexigraphic, liason,
+liberary, liev, lightyears, linke, linkeditted, linkeditting, lins, linz, litle, lits, loder, loger,
+loging, longers, longwinded, lood, mabe, mabye, maco, macroses, macrow, mainling, maintainance,
+maintance, maka, maline, malplaced, manal, manaze, mangager, manoeuvering, mantion, manuever,
+manuevers, mape, mapp, mariage, markes, markey, marz, maschine, mashine, masia, mata, matc,
+mathematican, mathes, mathmatical, matric, matris, maxiumum, maybee, mayu, meaned, measurment,
+mechandise, meda, mede, medeval, memmory, meni, ment, meny, meranda, methid, methot, metod, mian,
+midified, milage, milages, milennium, milion, millenia, millenium, miltary, minature, misake,
+miscelaneous, mischievious, misformed, mispelled, missen, missle, mistic, mmbers, modell, modfied,
+modifified, modifiy, modul, momento, momentos, mone, monitary, moniter, montly, montor, morever,
+morg, morter, mose, multipying, muti, mutliple, myselves, nane, nast, naybor, ndoe, necessar, neet,
+negativ, neigher, nerver, nescessarily, nescessary, nevers, neverthless, nieve, nife, nightime,
+ninties, nitch, nither, nodulated, noone, nore, normale, noticable, noticably, notse, nuber,
+numberic, numberous, oaker, occuring, occurrance, oclock, octect, octects, ocurred, oder, oepn,
+offest, offical, ofter, ofthe, oger, ointer, ointers, okat, omage, ommitted, onces, oneliners,
+onthe, opitimal, oportunity, opposit, opthalmic, opthalmology, orcestra, orginized, oriente, orign,
+orignal, orthoganal, oscilliscope, otate, othe, otherwhile, otho, outher, outut, outweight,
+overidden, overlow, overwise, ower, pacakge, pacht, padam, paket, pakets, pallete, pannel,
+paramater, paramaters, paramenter, parana, parathesis, parge, paria, parial, parlament, parm, parms,
+particulary, passord, passtrough, paswords, pathes, pattened, pavillion, perfomance, peripherial,
+permissable, permition, perposes, persent, personnal, pertubation, pharoah, phyton, pich,
+picknicker, pidgeon, pilon, pinter, pipline, pithon, pixes, planation, pobular, poenis, poins, pont,
+poperty, poriferal, portugese, portugues, posession, positoning, possibily, postion, powerfull,
+preceed, preceeded, preemptable, prefectly, prefered, preformant, prehaps, presnts, prespective,
+presse, presssed, presssure, prfer, principly, prinicipally, privilaged, priviledge, priviliged,
+probabilty, probaly, problably, proccess, procedes, procotols, producted, profesional, progams,
+programable, programm, programms, promt, pronomial, propietary, propper, proprietory, proprogated,
+protext, protoypes, provdes, psuedo, psychadelic, publick, pulish, purposedly, puting, pyramides,
+queres, questionaire, quicky, quiting, rade, rady, rasberry, reall, realy, reasearch, reasy,
+rebounce, recieve, recieved, recieves, recive, recomend, recompence, reconized, reding, redner,
+reduceable, reenforce, refence, refering, reffered, regisration, regisry, registrate, registred,
+registrer, reguard, regulary, relativly, relead, relevent, relize, relized, remaning, remeber,
+rememeber, renable, rende, reolving, repace, repetatively, repetoire, reponder, repositary,
+repositor, republi, requiers, requirs, requries, rescources, resgisters, residental, resistable,
+resonable, resonses, resore, responce, responde, Respons, respresent, restauration, restes,
+resturant, resue, resuing, resutls, retore, retreiver, revelant, reversable, revison, rige, righ,
+rocessing, rocessor, roduction, runned, rute, rythm, saame, sacreligious, sade, sagital, sais,
+sammon, sargeant, sart, sarts, satsifaction, scalled, scaning, scatch, schedual, schme, scientifc,
+scince, secound, secundly, seege, seemless, seige, selct, seldomly, selektor, selt, selv,
+semicolumn, sempahore, sence, sensable, sensitve, senstive, separatedly, seperate, seperated,
+seperator, seqence, serach, sergent, serie, servent, serveral, severly, shal, sheat, shedule,
+sheduler, sheeps, sheilds, shema, shematics, sheming, shepard, shepperd, shouldnt, shttp, shure,
+shwo, sideral, signes, similarily, similer, similiar, simle, simliar, simpe, simpliest, simplist,
+simular, sinal, sinic, sinoidal, sise, sist, sive, siver, skelton, sleeped, slightl, slighty, slite,
+smoot, smpt, snipets, softwares, solate, soler, soliders, solum, somes, somone, somthing, songle,
+sory, sotfware, sotres, soures, spagetti, spaning, spcification, spece, specifed, specificly,
+specifiying, speling, sperate, splet, splitted, spreaded, stach, stalagtite, standart, standrd,
+stanger, stap, staright, steraming, stetch, stong, stoped, stoping, storge, strack, stram, streight,
+strengts, strenth, striaght, strig, stript, stubborness, stuctured, stying, subcript, subsquent,
+substract, substraction, succeded, succesful, succesfull, succesfully, succesive, succussive,
+sucessfully, sude, sugestions, summar, summerize, superceded, superceding, suply, suport, supose,
+suppling, suppost, suppport, suppported, suppresion, supressed, suprise, suprised, suprising,
+suprisingly, surviver, sustem, suttle, swiming, swith, symmetral, synchonizing, synonomous, syste,
+sytsem, szenes, tabele, tabl, tage, taget, taht, targer, tath, teated, teather, techical, teching,
+techinician, technik, technlogies, tecnology, tennant, tention, teoretical, termine, termo,
+tesselated, texline, thair, tham, thatn, thats, thaught, thay, theer, thei, theis, theives,
+theorical, theorically, ther, thered, theres, thet, theyre, thie, thier, thight, thirdparty, thos,
+thoughout, thouroughly, thow, thred, threshhold, thrid, throughly, throught, throwed, tich, tiem,
+tigger, timne, tipe, tiple, toggel, tolen, toom, totaly, tothe, tought, trafic, trama, tranfer,
+transfered, transfering, translater, trasition, trasmitter, trasparent, tring, triology, tripel,
+tripple, trotskyite, trought, troup, truble, trun, ttest, tthat, tthe, tung, tupe, ture, twoo, tyoe,
+unale, unbelivable, uncognized, uncompatible, uncomplete, unconsistent, unconvenient, uncorrect,
+uncorrectly, undefied, underfiend, underware, unefficient, unequality, unequivalent, unflexible,
+unform, unintialized, unio, unios, univeral, unlimitted, unline, unneccesary, unneccessary,
+unoffical, unprecise, unpredicable, unregistred, unsage, unsing, unsinged, unstability, unstalled,
+unsucceeded, unsued, unsufficient, unter, untill, unuseful, unvailable, unvalid, unwieldly, upsteam,
+uptodate, usally, usefull, usuable, usualy, ususally, utilites, utilitizes, utput, vaid, vailable,
+vally, varing, vell, vender, venemous, verbage, verbous, verion, viceversa, vill, villian, villify,
+vindow, visable, visiter, vist, vrsion, wapper, wapping, wasnt, wass, wath, wayword, webiste,
+werent, wery, whan, whcih, whell, whent, wheras, whick, whill, whith, whos, wiat, wice, wich,
+widder, wierd, wieth, wihtout, wille, winge, winn, wirh, wirth, withs, withthe, wizzard, wnat,
+womans, womens, wonderously, worng, wouldnt, wrapp, writen, writte, wroking, wrtten, xenophoby,
+xwindows, yaer, yeild, yeilded, yello, youre, zink
+
+Affix rules that generated misspellings (73 words)
+Some words carried affix flags that produced incorrect doubled-consonant forms (for example
+happen produced happenned and happenning, edit produced editted and editting). The faulty flags
+were removed from these words and the correct forms were kept as explicit entries.
+  abandon: removed abandonned, abandonning
+  accredit: removed accreditted
+  accustom: removed accustommed
+  advertise: removed advertisy
+  agree: removed agred
+  ave: removed avation
+  bar: removed barrer
+  bee: removed beeing, beeings
+  blind: removed blindy
+  buffer: removed bufferred, bufferring
+  cap: removed cappability, cappable
+  car: removed carrer, carrer's, carrers
+  cod: removed codder, codder's, codders
+  correct: removed correcters
+  cover: removed coverred
+  credit: removed creditted, discreditted
+  date: removed daty
+  detect: removed detecters
+  develop: removed developped, developping, redevelopped, redevelopping
+  diet: removed diety
+  differ: removed differred
+  digest: removed digesty
+  edit: removed editted, editting, re-editted, re-editting
+  envelop: removed envelopped, envelopping
+  execute: removed executation, executations
+  exit: removed exitted, exitting
+  filter: removed filterring
+  flatten: removed flattenning
+  guarantee: removed guaranted
+  happen: removed happenned, happenning
+  hight: removed highter
+  imprison: removed imprisonned
+  inherit: removed inheritted, inheritting
+  interpret: removed interpretted, interpretting
+  lac: removed lackers
+  lack: removed lackers
+  limit: removed delimitted, delimitter, delimitter's, delimitters, delimitting, limitted, limitter, limitter's, limitters, limitting
+  listen: removed listenned, listenner, listenner's, listenners, listenning
+  mail: removed maily
+  market: removed marketting
+  mirror: removed mirrorred, mirrorring
+  misinterpret: removed misinterpretted, misinterpretting
+  mote: removed motation
+  number: removed numberred, numberring
+  open: removed openned, openning
+  paragraph: removed paragraphy
+  pivot: removed pivotting
+  pos: removed possability, possable
+  prefer: removed preferrable
+  prohibit: removed prohibitted, prohibitting
+  public: removed publically
+  put: removed imput, imput's, imputs
+  putted: removed imputted
+  putting: removed imputting
+  reach: removed reachers
+  reason: removed reasonnable
+  referee: removed refered
+  register: removed registerred, registerring
+  render: removed renderred, renderrer, renderrer's, renderrers, renderring
+  response: removed responser's, responsers
+  save: removed savy
+  second: removed secondy
+  share: removed sharability
+  spree: removed spred
+  stand: removed standy
+  strangle: removed strangly
+  suffer: removed sufferred, sufferring
+  sup: removed suppy
+  supp: removed suppy
+  trigger: removed triggerred, triggerring
+  troll: removed trolly
+  tun: removed tunned, tunning
+  writ: removed writter, writter's, writters, writting
+
+Corrupted accented words (40 entries)
+These had a ? where the accented letter should be, so the correct spelling was never accepted.
+  appliqu? -> appliqué
+  appliqu?d -> appliquéd
+  ar?te -> arête
+  attach? -> attaché
+  blas? -> blasé
+  boucl? -> bouclé
+  caf? -> café
+  canap? -> canapé
+  clich? -> cliché
+  clich?d -> clichéd
+  cloisonn? -> cloisonné
+  communiqu? -> communiqué
+  d?collet? -> décolleté
+  d?colletage -> décolletage
+  d?cor -> décor
+  d?tente -> détente
+  derri?re -> derrière
+  entr?e -> entrée
+  expos? -> exposé
+  fa?ade -> façade
+  fianc? -> fiancé
+  fianc?e -> fiancée
+  flamb? -> flambé
+  habitu? -> habitué
+  macram? -> macramé
+  outr? -> outré
+  p?t? -> pâté
+  pass? -> passé
+  prot?g? -> protégé
+  prot?g?e -> protégée
+  r?sum? -> résumé
+  recherch? -> recherché
+  risqu? -> risqué
+  ros? -> rosé
+  s?ance -> séance
+  saut? -> sauté
+  soign? -> soigné
+  souffl? -> soufflé
+  touch? -> touché
+  vis-?-vis -> vis-à-vis
+
+Junk and malformed entries (15 entries)
+Wikipedia footnote markers, stray full stops, a chord name and a copy-paste fragment.
+  but. -> (removed)
+  Clot. -> (removed)
+  e.g.. -> e.g.
+  esq.. -> esq.
+  F#m -> (removed)
+  go. -> (removed)
+  Gunnedah[4] -> Gunnedah
+  kit. -> (removed)
+  Malarkey. -> malarkey
+  Port Macquarie[5] -> Port Macquarie
+  q-tips. -> Q-tips
+  Ric1 -> (removed)
+  Taree[6] -> Taree
+  Tugrah, Tasmania -> Tugrah
+  Wingham[7] -> Wingham
+
+Trailing spaces (4 entries)
+These entries had a trailing space, which stopped them matching: AppData, ChatGPT, LOL, NVMe.
+
+Multi-word entries (528 entries)
+Spell checkers test one word at a time, so entries containing a space (for example "Alice
+Springs" or "Australian Capital Territory") could never match anything. These were split into
+single words. Words that were not already in the dictionary were added:
+Abels, Ansons, Antill, Batemans, Birchs, Blackmans, Bonnells, Bradys, Brittons, Sav, Calperum,
+Connellys, Couta, Cudlee, Darke, Dennes, Edgcumbe, Geilston, Gillieston, Gol, Goulds, Grasstree,
+Greenwell, Gunns, Haasts, Hamley, Heddon, Herdsmans, Doo, Jackeys, Illawarra, Lenah, Swanport,
+Middleback, Monarto, Musselroe, Nicholls, Motton, Petcheys, Mcleay, Souttar, Kembla, Quamby,
+Randalls, Shea-Oak, Shorewell, Kilkerran, Leonards, Stenhouse, Tods, Tolmans, Tooms, Tuntable, Wami,
+Warrell, Barson, Playford, Yarcowie, Yallunda
+
+Duplicate and redundant entries
+Around 50,000 words appeared on more than one line (for example Übermenschen, Übermenschen's
+and Übermenschen/M). Duplicate lines were merged into one entry with the combined affix flags.
+87,622 plain entries that were already produced by another entry's affix flags
+(usually plurals and possessives) were removed. No accepted words were lost.
+
+Profanity suggestions
+25 swear words and slurs were marked with the NOSUGGEST flag (!), which tells the spell
+checker never to offer them as corrections. The flag was removed so that typos such as "fcuk"
+or "cnut" can be corrected to the intended word, in keeping with the purpose of the dictionary.
+Affected: arsehole, bullshit, bullshitted, bullshitter, bullshitting, chickenshit, cocksucker, coon, cunt, fuck, fucker, fuckhead, horseshit, kraut, motherfucker, motherfucking, nigger, shit, shitfaced, shithead, shitload, shitted, shitting, shitty, wop
+
+Other changes
+  - Version number updated to 3.1.0 in manifest.json.
+  - Added a description to manifest.json.
+  - Added a 3.1.0 entry to changelog.txt.
+  - Dictionary sorted alphabetically (case-insensitive) with Unix line endings and an accurate
+    word count on the first line.
+  - The META-INF signing folder was removed because the Mozilla signature is invalidated by any
+    change to the files. The .xpi needs to be uploaded to addons.mozilla.org to be re-signed
+    before it can be installed permanently in release Firefox. For testing, load it via
+    about:debugging > This Firefox > Load Temporary Add-on.
+
+WORDS ADDED
+-----------
+Flags in brackets show which extra forms are also accepted: S plural, M possessive,
+D past tense, G -ing form.
+
+Australian slang and colloquialisms (100)
+arsey, avagoyamug, bewdy (S), bikky, bitchin, bludged, bludging, bogany, boganville, boofhead (SM),
+bottleo (SM), bottlo (SM), brolga (SM), bugalugs, chockers, chookie (SM), cockie (SM), coldie (SM),
+dack (S), daggier, daggiest, dero (SM), derro (SM), doco (SM), dolebludger (SM), dropbear (SM), exy,
+fanging, feral (SM), firie (SM), fisho (SM), freshie (SM), goog (SM), goonbag (SM), hooroo, hoonish,
+iceblock (SM), icypole (SM), kindy (M), kindie (SM), lappy, lillypilly, longneck (SM), macca (SM),
+milko (SM), mozzy, muso (SM), narna (SM), newie (SM), nuffy, nuffies, ocka (SM), ocky (S), opshop
+(SM), owyagoin, paddo (SM), pav (SM), pashed, pashes, pashing, perve (SM), perved, perving,
+preggers, relo (SM), rellie (SM), rello (SM), rockmelon (SM), rooshooter (SM), rootrat (SM), rorter
+(SM), saltie (SM), sanga (SM), sangas, sheepo (SM), shonkier, shonkiest, slacko, snaggers, spag,
+spaggo, spewin, stubbie (SM), stubbies, sunnies, swaggie (SM), toey, trackie (SM), trackydacks,
+trakkies, tradie (SM), tuckerbag (SM), underdacks, vedgie (SM), veggo (SM), vego (SM), vejjo,
+woopwoop, yarndi, yowie (SM)
+
+Profanity and insults (89)
+absofuckinglutely, apeshit, arsehat (SM), arselicker (SM), arsewipe (SM), bastardry, batshit,
+bitchface (SM), buggerall, bumface (SM), bumfight (SM), bumfluff, bumhole (SM), clusterfucks,
+cockhead (SM), craphouse (SM), cunty, cuntbag (SM), cunted, cuntface (SM), cunthead (SM), cunting,
+cuntish, cuntstruck, dickbag (SM), dickery, dicking, dickish, dickishness, dickwad (SM), dipshit
+(SM), douchebag (SM), effin, farken, farkin, farking, farkwit (SM), fricking, frickin, friggin,
+fuckall, fuckboy (SM), fucken, fuckery, fuckface (SM), fuckknuckle (SM), fuckload (SM), fuckstick
+(SM), fucktard (SM), fuckton (SM), fuckups, fuckwit (SM), fuckwitted, fuggin, fugly, jackshit,
+jizzed, jizzing, knobend (SM), knobhead (SM), knobjockey (SM), minger (SM), numpty, numpties,
+pissant (SM), pisshead (SM), pisspoor, pisstaking, pissweak, shite, shitbox (M), shitboxes, shitcunt
+(SM), shitfest (SM), shitfuckery, shithole (SM), shithouse (SM), shitkicker (SM), shitless,
+shitloads, shitshow (SM), shitstorm (SM), shitter (SM), skank (SM), skanky, tosspot (SM), twatwaffle
+(SM), unfuckingbelievable, wankstain (SM)
+
+Places, regions and demonyms (51)
+Brissie, BrisVegas, Brisvegas, Brizzy, Budgewoi, Blacktown (M), Cabarita, Canberran (SM), Canungra,
+Capalaba, Chatswood (M), Chermside, Coogee (M), Coomera, Cronulla (M), Croweater (SM), Currimundi,
+Ettalong, Eumundi, Fleurieu, Gippsland (M), Hurstville, Indooroopilly, Joondalup, Kawana, Kirra,
+Maribyrnong, Maroubra, Melbs, Mooloolaba, Mooroolbark, Nepean, Ningaloo, Nundah, Palmwoods, Pilbara
+(M), Radelaide, Redland (S), Sandgate, Sinny, Tasmanian (SM), Territorian (SM), Toowong, Umina,
+Warnervale, Wimmera, Woolloomooloo, Woolloongabba, Wooloowin, Wyee, Wynnum
+
+Aboriginal and Torres Strait Islander peoples, places and words (20)
+Anangu, coolamon (SM), Dharug, Eora, Gadigal, humpies, Jagera, Kata, Larrakia, Minjerribah, Nunga
+(S), Nyoongar, Palawa, Tjuta, Turrbal, Wik, Wurundjeri, Yamatji, yidaki (S), Yuggera
+
+Flora and fauna (18)
+bettongs, boab (SM), bottlebrush (M), bottlebrushes, corellas, currawong (SM), dhufish, didjeridu
+(SM), dingos, frillneck (SM), grevilleas, irukandji, marri (S), quandongs, quolls, redclaw (S),
+rosellas, waratahs
+
+Companies, brands and organisations (88)
+ACCC (M), ADF (M), AFL (M), AFLW (M), AFP (M), Akubra (SM), Aldi (M), ALDI (M), ANZ (M), ASX (M),
+Autobarn (M), BCF (M), Blackmores (M), Blundstone (SM), Boag (M), Boags, BOQ (M), Breville (M), BWS
+(M), Canstar (M), Cenovis (M), Chiko (SM), Colorbond (M), CommBank (M), Commbank (M), Driza-Bone
+(SM), Drizabone (SM), Fourex (M), GoCard, Holdens, IGA (M), Jetstar (M), Kingswood (SM), Kmarts,
+Liquorland (M), Macpac (M), MCG (M), Metcard (SM), Myki (SM), NBN (M), nbn, NRL (M), NRLW (M),
+Officeworks (M), Optus (M), Ozito (M), Quiksilver (M), RBA (M), Repco (M), Rabbitohs, SCG (M),
+SmartRider (SM), Socceroos, Stratco (M), Suncorp (M), Supercars, Supercheap (M), Telstra (M), TPG
+(M), Translink (M), Transurban (M), Victa (SM), WACA (M), Wallaroos, WBBL (M), Weet-Bix, Woolies,
+Woolworths (M), Xero (M), MYOB (M), Zambrero (SM), Hockeyroos, Gaytime (SM), Torana (SM), Toranas,
+Monaro (SM), iiNet (M), eTag (SM), triplej, JJJ, KIIS, Kiis, Gruen, Housos, Seachange, Tonightly,
+Balmain (M), Barossa (M)
+
+Politicians, public figures and nicknames (57)
+Bandt (M), Berejiklian (M), Credlin (M), Faruqi (M), Frydenberg (M), Gutwein (M), Husic (M), Katter
+(M), Littleproud (M), Malinauskas (M), Palaszczuk (M), Payman (M), Perrottet (M), Plibersek (M),
+Rishworth (M), Rockliff (M), ScoMo (M), Shoebridge (M), Steggall (M), Sussan (M), Tehan (M), Whitlam
+(M), Blanchett (M), Daicos (M), Fogarty (M), Goodes (M), Hazlewood (M), Hemsworth (SM), Hodgkinson
+(M), Hughesy (M), Kewell (M), Khawaja (M), Kochie (M), Konstas (M), Kyrgios (M), Labuschagne (M),
+Langbroek (M), Latrell (M), Lillee (M), McKeown (M), Minaur (M), Petracca (M), Piastri (M), Ponting
+(M), Raso (M), Ricciardo (M), Sia (M), Starc (M), Stefanovic (M), Strzelecki (M), Thorpie (M),
+Titmus (M), Viduka (M), Warnie (M), Zampa (M), Hamo (M), Boonie (M)
+
+Technology, internet and modern usage (66)
+agentic, antivaxxer (SM), bussin, chatbot (SM), cheugy, cottagecore, covidiot (SM), delulu,
+doomscroll (SDG), enshittification, eSIM (SM), EV (SM), genAI, GenAI, gyatt, homelab (SM), ick (S),
+influencers, Instagrammer (SM), livestream (SDG), lockdowns, LLM (SM), mansplain (SDG), podcaster
+(SM), rizz, rizzy, situationship (SM), skibidi, subreddit (SM), sus, TikToker (SM), unalived, unmute
+(SD), unmuting, unvaxxed, vaxxed, vaxxer (SM), vibecoding, wifi, Wifi, WFH, YouTuber (SM), Bluesky
+(M), Canva (M), DeepSeek (M), Ethereum (M), dogecoin, Figma (M), Midjourney (M), NFT (SM), OpenAI
+(M), Reddit (M), Redditor (SM), Snapchat (M), WhatsApp (M), Kubernetes, Nginx, Tailscale (M),
+Zigbee, Portainer (M), Radarr (M), Sonarr (M), FTTN, FTTP, HFC, RATs
+
+3D printing and vehicles (25)
+Bambu (M), Creality (M), Flashforge (M), Fluidd (M), Klipper (M), OctoPrint (M), OrcaSlicer (M),
+PETG, PLA, Prusa (M), TPU, BYD (M), GWM (M), Haval (M), Hilux (M), Hiluxes, Kia (M), LandCruiser
+(SM), Landcruiser (SM), LDV (M), Navaras, Pajero (SM), Saabs, Subarus, Volvos
+
+Total new words added: 514 (plus 59 from split place names and derived forms)
+
+NOTES
+-----
+No new racial or ethnic slurs were added. All existing entries of that kind were left as they were.
+The .aff file was not changed.
