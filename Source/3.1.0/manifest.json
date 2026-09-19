@@ -1,0 +1,14 @@
+{
+	"manifest_version": 3,
+	"name": "Australian English Dictionary",
+	"description": "Australian English spelling dictionary with Aussie slang, place names, brands, public figures and the full range of colourful language.",
+	"version": "3.1.0",
+	"dictionaries": {
+		"en-AU": "dictionaries/AussieDic.dic"
+	},
+	"browser_specific_settings": {
+		"gecko": {
+			"id": "AussieDic@dictionaries.addons.mozilla.org"
+		}
+	}
+}
