@@ -2,7 +2,6 @@
 **For mad cun#s who don't speak simplified English**
 The Australian English Dictionary -- or as I like to call it, *AussieDic*, is a modern Australian dictionary for Firefox, Thunderbird and hopefully more soon!
 
-
 ## Features
 - Profanity
 - Racism
@@ -19,7 +18,7 @@ The Australian English Dictionary -- or as I like to call it, *AussieDic*, is a 
 *(if you like it - please leave a positive review)*
 
 
-### WAIT, WHAT?! WHY ARE SOME WORDS SPELLED DIFFERENTLY IN AUSTRALIAN ENGLISH?
+## WAIT, WHAT?! WHY ARE SOME WORDS SPELLED DIFFERENTLY IN AUSTRALIAN ENGLISH?
 
 ***Doesn’t Australian English follow British spelling conventions? After all, isn’t EN-GB (British English, Great Britain) essentially the same as Australian English when it comes to spelling?***
 
