@@ -18,6 +18,22 @@ The Australian English Dictionary -- or as I like to call it, *AussieDic*, is a 
 - [Thunderbird Add-ons listing](https://addons.thunderbird.net/en-US/thunderbird/addon/australian-english-dictionary/)
 *(if you like it - please leave a positive review)*
 
+
+### WAIT, WHAT?! WHY ARE SOME WORDS SPELLED DIFFERENTLY IN AUSTRALIAN ENGLISH?
+
+***Doesn’t Australian English follow British spelling conventions? After all, isn’t EN-GB (British English, Great Britain) essentially the same as Australian English when it comes to spelling?***
+
+According to the [Australian Government Style Manual](https://www.stylemanual.gov.au/grammar-punctuation-and-conventions/spelling), Australian English has its own spelling conventions, which sometimes differ from those used in the UK. For example, **program** is the standard spelling in Australian English, particularly in computing, whereas **programme** is traditionally preferred in British English for most other contexts.
+
+Other examples, with Australian English listed first, include:
+
+-   **Aging / ageing**
+-   **Livable / liveable**
+
+These examples illustrate that Australian English does not follow British spelling conventions in every instance. While the two varieties share many similarities, Australian English has developed its own standards and preferences.
+
+It is also worth noting that British English is not entirely uniform: vocabulary, pronunciation and usage vary considerably across the UK. Therefore, Australian English is best understood as a distinct variety of English that shares many conventions with British English rather than simply being identical to it.
+
 ## Support
 To submit words, errors or suggestions please open an issue on Github, or [email me.](mailto:aussiedic@cask.zone) I'll try my best to continue maintaining the dictionary.
 
