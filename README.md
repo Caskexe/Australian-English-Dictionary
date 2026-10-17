@@ -1,3 +1,4 @@
+
 # Australian English Dictionary
 **For mad cun#s who don't speak simplified English**
 The Australian English Dictionary -- or as I like to call it, *AussieDic*, is a modern Australian dictionary for Firefox, Thunderbird and hopefully more soon!
@@ -13,6 +14,7 @@ The Australian English Dictionary -- or as I like to call it, *AussieDic*, is a 
 
 ## Links
 - [GitHub repo](https://github.com/Caskexe/Australian-English-Dictionary)
+
 **ADD-ON LISTINGS** *(if you like it - please leave a positive review)*
 - [Firefox Add-ons listing](https://addons.mozilla.org/en-GB/firefox/addon/australian-english-dictionary/)  
 - [Thunderbird Add-ons listing](https://addons.thunderbird.net/en-US/thunderbird/addon/australian-english-dictionary/)
