@@ -1,4 +1,3 @@
-
 ## Development basics for dictionary files
 Firefox dictionary add-ons use the [GNU Aspell system](http://aspell.net/man-html/)
 There are two files that make up the important function of the add-on. These are the `.dic` file and the `.aff` file 
