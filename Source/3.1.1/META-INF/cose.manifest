@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 3Ehi9ra1UnW3LNjEqyfM0YuJwNk=
+SHA256-Digest: 0lagD7J4CZdkQAC88zlq5A0OKehZGfSMDMRr1rdC3Eo=
+
+Name: changelog.txt
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 0wyELJNgzL6dHinkwRHJbLljdIo=
+SHA256-Digest: hILYn6A7iTnGEZbJ1CYmlu1UftWirCjv0BFst2q8+ho=
+
+Name: readme.md
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: k1Z9aOpxd2VQvo1tUpOM0V6Fe1o=
+SHA256-Digest: +WZvhZtaV1uc7xqwvyz6wt+2zunQb5L4yijFXye9Sgs=
+
+Name: license.txt
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Hrp8rwmjkRCtL1QuPthwDRppxtM=
+SHA256-Digest: IwGE9guuL+ryRPEKi6wFPI/zOhg7zDZbTYuHbSt/SAk=
+
+Name: dictionaries/AussieDic.aff
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: vxg2ikczwXQm73cx2pHrIwZy3l8=
+SHA256-Digest: uP91Cn4E8aCM8SiBJ+N/ufW5PHna9rXvouNAqOwqoU0=
+
+Name: dictionaries/AussieDic.dic
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ELiYBk3B8Vkei0adNvzYq8iMfFU=
+SHA256-Digest: 72SbGrtDvxxibXz4GF92thlnB0Ikfx4SLcLBmf6mGUg=
+

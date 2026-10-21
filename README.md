@@ -19,6 +19,8 @@ The Australian English Dictionary -- or as I like to call it, *AussieDic*, is a 
 - [Firefox Add-ons listing](https://addons.mozilla.org/en-GB/firefox/addon/australian-english-dictionary/)  
 - [Thunderbird Add-ons listing](https://addons.thunderbird.net/en-US/thunderbird/addon/australian-english-dictionary/)
 
+Mozilla Add-ons UUID: AussieDic@dictionaries.addons.mozilla.org 
+
 
 ## WAIT, WHAT?! WHY ARE SOME WORDS SPELLED DIFFERENTLY IN AUSTRALIAN ENGLISH?
 
