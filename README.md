@@ -40,9 +40,8 @@ It is also worth noting that British English is not entirely uniform: vocabulary
 ## Support
 To submit words, errors or suggestions please open an issue on Github, or [email me.](mailto:aussiedic@cask.zone) I'll try my best to continue maintaining the dictionary.
 
-
 **You** can support **ME** (so I don't have to resort to Cenno) by buying me a beer (actually, I don't drink beer - Un-Australian or what?!
- - [Shout me a coffee via Ko-fi](https://ko-fi.com/caskexe)
+ - [Ko-fi](https://ko-fi.com/caskexe)
  - [PayPal](https://www.paypal.com/donate/?hosted_button_id=TGX3Q6GHFVZXU)
  - **Litecoin:** MLopHqV7ZBXW67ey4DPMhGWGa3pGan5ZSJ
  - **Bitcoin:** 3GaR1skLQapxSvaCSMaJNvQr9QD3rbp1AR
