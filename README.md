@@ -43,6 +43,9 @@ To submit words, errors or suggestions please open an issue on Github, or [email
 
 **You** can support **ME** (so I don't have to resort to Cenno) by buying me a beer (actually, I don't drink beer - Un-Australian or what?!
  - [Shout me a coffee via Ko-fi](https://ko-fi.com/caskexe)
+ - [PayPal](https://www.paypal.com/donate/?hosted_button_id=TGX3Q6GHFVZXU)
+ - **Litecoin:** MLopHqV7ZBXW67ey4DPMhGWGa3pGan5ZSJ
+ - **Bitcoin:** 3GaR1skLQapxSvaCSMaJNvQr9QD3rbp1AR
 
 ## Stuffs to know:
 Some words may be duplicates or alternate spellings due to the fact that they're not really words and people have all sorts of ways of spelling them (for example: you-ey, uie, youie). This is purely to avoid those horrible red underlines.
