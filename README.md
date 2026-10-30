@@ -39,6 +39,16 @@ These examples illustrate that Australian English does not follow British spelli
 
 It is also worth noting that British English is not entirely uniform: vocabulary, pronunciation and usage vary considerably across the UK. Therefore, Australian English is best understood as a distinct variety of English that shares many conventions with British English rather than simply being identical to it.
 
+## Support
+To submit words, errors or suggestions please open an issue on Github, or [email me.](mailto:aussiedic@cask.zone) I'll try my best to continue maintaining the dictionary.
+
+**You** can support **ME** (so I don't have to resort to Cenno) by buying me a beer (actually, I don't drink beer - Un-Australian or what?!
+ - [Ko-fi](https://ko-fi.com/caskexe)
+ - [PayPal](https://www.paypal.com/donate/?hosted_button_id=TGX3Q6GHFVZXU)
+ - **Litecoin:** MLopHqV7ZBXW67ey4DPMhGWGa3pGan5ZSJ
+ - **Bitcoin:** 3GaR1skLQapxSvaCSMaJNvQr9QD3rbp1AR
+
+## Stuffs to know:
 Some words may be duplicates or alternate spellings due to the fact that they're not really words and people have all sorts of ways of spelling them (for example: you-ey, uie, youie). This is purely to avoid those horrible red underlines.
 
 **The dictionary files contain a whole tonne of racist, offensive and naughty words. Please don't send complaints or report the extension for its profanity or offensive language.** 
