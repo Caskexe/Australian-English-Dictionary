@@ -1,9 +1,10 @@
-
 # Australian English Dictionary
+
 **For mad cun#s who don't speak simplified English**
 The Australian English Dictionary -- or as I like to call it, *AussieDic*, is a modern Australian dictionary for Firefox, Thunderbird and hopefully more soon!
 
 ## Features
+
 - Profanity
 - Racism
 - Slang words
@@ -13,14 +14,15 @@ The Australian English Dictionary -- or as I like to call it, *AussieDic*, is a 
 - Towns, Cities and other crap
 
 ## Links
+
 - [GitHub repo](https://github.com/Caskexe/Australian-English-Dictionary)
 
 **ADD-ON LISTINGS** *(if you like it - please leave a positive review)*
+
 - [Firefox Add-ons listing](https://addons.mozilla.org/en-GB/firefox/addon/australian-english-dictionary/)  
 - [Thunderbird Add-ons listing](https://addons.thunderbird.net/en-US/thunderbird/addon/australian-english-dictionary/)
 
 Mozilla Add-ons UUID: AussieDic@dictionaries.addons.mozilla.org 
-
 
 ## WAIT, WHAT?! WHY ARE SOME WORDS SPELLED DIFFERENTLY IN AUSTRALIAN ENGLISH?
 
@@ -30,28 +32,47 @@ According to the [Australian Government Style Manual](https://www.stylemanual.go
 
 Other examples, with Australian English listed first, include:
 
--   **Aging / ageing**
--   **Livable / liveable**
+- **Aging / ageing**
+- **Livable / liveable**
 
 These examples illustrate that Australian English does not follow British spelling conventions in every instance. While the two varieties share many similarities, Australian English has developed its own standards and preferences.
 
 It is also worth noting that British English is not entirely uniform: vocabulary, pronunciation and usage vary considerably across the UK. Therefore, Australian English is best understood as a distinct variety of English that shares many conventions with British English rather than simply being identical to it.
 
-## Support
-To submit words, errors or suggestions please open an issue on Github, or [email me.](mailto:aussiedic@cask.zone) I'll try my best to continue maintaining the dictionary.
-
-
-**You** can support **ME** (so I don't have to resort to Cenno) by buying me a beer (actually, I don't drink beer - Un-Australian or what?!
- - [Shout me a coffee via Ko-fi](https://ko-fi.com/caskexe)
-
-## Stuffs to know:
 Some words may be duplicates or alternate spellings due to the fact that they're not really words and people have all sorts of ways of spelling them (for example: you-ey, uie, youie). This is purely to avoid those horrible red underlines.
+
 **The dictionary files contain a whole tonne of racist, offensive and naughty words. Please don't send complaints or report the extension for its profanity or offensive language.** 
 The purpose of the dictionary is to include all coloUrful language used in Australia. As such, there are plenty of bad words, slang and racist remarks included in the dictionary that may not be appropriate for all.
- - ***How to avoid seeing offensive words:***
-	  - Don't type them. Then they won't be visible or require correcting! Simple as!
 
+- ***How to avoid seeing offensive words:***
+  - Don't type them. Then they won't be visible or require correcting! Simple as!
 
 ## Acknowledgements and License
+
 Licensed under *GNU General Public License v3.0*
 This dictionary was adapted from Apache OpenOffice locales, Hunspell dictionaries, and a shit-tonne of brainstorming different slangs and swearwords that were missing!
+
+## Support Me
+
+To submit words, errors or suggestions please open an issue on Github, or [email me.](mailto:aussiedic@cask.zone) I'll try my best to continue maintaining the dictionary.
+
+**You** can support **ME** (so I don't have to resort to Cenno) by buying me a beer (actually, I don't drink beer - Un-Australian or what?!
+
+Donations are optional, and there is no expectation to give. If you find my tools useful and want to say thanks, these are the easiest ways to do it:
+
+- [Ko-fi](https://ko-fi.com/caskexe)
+- [Buy Me a Coffee](https://buymeacoffee.com/caskexe)
+- [PayPal](https://www.paypal.com/donate/?hosted_button_id=TGX3Q6GHFVZXU)
+
+**Crypto**
+
+- Litecoin (LTC): `MLopHqV7ZBXW67ey4DPMhGWGa3pGan5ZSJ`
+- Bitcoin (BTC): `3GaR1skLQapxSvaCSMaJNvQr9QD3rbp1AR`
+
+**Music**
+
+If you enjoy synthwave, retrowave or 80s pop, you can listen to and buy my music on Bandcamp:
+
+- [HELIXIRx](https://helixirx.bandcamp.com/)
+- [Empty Triangles](https://emptytriangles.bandcamp.com/)
+- [Sunsetron](https://sunsetron.bandcamp.com/)
